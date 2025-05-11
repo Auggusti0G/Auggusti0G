@@ -4,6 +4,11 @@
 
 Me chamo Rafael Augusto, tenho 18 anos e sou natural do Distrito Federal. Concluí o ensino médio no Projeção Samdu, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Ceub. Sou facinado por tecnologia 
 
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
