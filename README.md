@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rafael Augusto
+#  Rafael Augusto
 
 **`Desenvolvedora FullStack`**
 
