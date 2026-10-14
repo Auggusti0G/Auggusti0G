@@ -46,18 +46,18 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
 
 ---
 
-### 📊 Estatísticas do GitHub
+<h3>📊 Estatísticas do GitHub</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Auggusti0G&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br&rank_icon=github"
-    alt="Estatísticas do GitHub de Rafael Augusto"
-    height="195"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Auggusti0G&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br"
+    alt="Estatísticas do GitHub de Rafael"
+    height="190"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auggusti0G&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
-    alt="Linguagens mais utilizadas por Rafael Augusto"
-    height="195"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Auggusti0G&layout=compact&langs_count=8&theme=tokyonight"
+    alt="Linguagens mais utilizadas"
+    height="190"
   />
 </p>
 
