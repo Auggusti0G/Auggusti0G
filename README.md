@@ -37,15 +37,6 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
 
 ---
 
-### 🎯 Objetivos
-
-- Desenvolver projetos práticos e construir um portfólio.
-- Aprimorar minha lógica de programação.
-- Aprender novas tecnologias e boas práticas de desenvolvimento.
-- Evoluir continuamente como profissional de TI.
-
----
-
 <h3>📊 Estatísticas do GitHub</h3>
 
 <p align="center">
