@@ -41,3 +41,11 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
 </p>
 
 ---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Auggusti0G/Auggusti0G/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Auggusti0G/Auggusti0G/output/github-snake.svg" />
+    <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/Auggusti0G/Auggusti0G/output/github-snake.svg" />
+  </picture>
+</p>
