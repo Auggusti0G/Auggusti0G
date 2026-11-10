@@ -8,7 +8,7 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
 
 ---
 
-<h3>📊 Estatísticas do GitHub</h3>
+<h3> Estatísticas do GitHub</h3>
 
 <p align="center">
   <img
@@ -25,7 +25,7 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
 
 ---
 
-### 🛠️ Linguagens e tecnologias
+### Linguagens e tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" alt="HTML5" title="HTML5"/>
@@ -42,11 +42,6 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
 
 ---
 
-### 📈 Histórico de contribuições
-
-[![Gráfico de contribuições do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Auggusti0G&theme=tokyo-night&hide_border=true)](https://github.com/Auggusti0G)
-
----
 ### 📚 Estudos atuais
 
 - Desenvolvimento Web: HTML, CSS e JavaScript.
