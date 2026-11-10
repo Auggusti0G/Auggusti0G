@@ -41,9 +41,3 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
 </p>
 
 ---
-
-### 📈 Contribuições
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Auggusti0G" alt="Gráfico de contribuições de Rafael Augusto" />
-</p>
