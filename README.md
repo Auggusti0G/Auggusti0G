@@ -42,29 +42,8 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
 
 ---
 
-### 📚 Estudos atuais
-
-- Desenvolvimento Web: HTML, CSS e JavaScript.
-- Lógica de programação e algoritmos.
-- Programação em Python e C.
-- Desenvolvimento de APIs com Django e Django REST Framework.
-- Banco de dados e SQL.
-- Controle de versão com Git e GitHub.
-- Fundamentos de segurança da informação e computação em nuvem.
-
----
-
-### 🏆 Troféus do GitHub
+### 📈 Contribuições
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Auggusti0G&theme=tokyonight&no-frame=true&margin-w=8&row=1"
-    alt="Troféus do GitHub de Rafael Augusto"
-  />
-</p>
-
----
-
-<p align="center">
-  <i>"A prática constante transforma conhecimento em habilidade."</i>
+  <img src="https://ghchart.rshah.org/Auggusti0G" alt="Gráfico de contribuições de Rafael Augusto" />
 </p>
