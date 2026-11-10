@@ -25,18 +25,6 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
 
 ---
 
-### 📚 Estudos atuais
-
-- Desenvolvimento Web: HTML, CSS e JavaScript.
-- Lógica de programação e algoritmos.
-- Programação em Python e C.
-- Desenvolvimento de APIs com Django e Django REST Framework.
-- Banco de dados e SQL.
-- Controle de versão com Git e GitHub.
-- Fundamentos de segurança da informação e computação em nuvem.
-
----
-
 <h3>📊 Estatísticas do GitHub</h3>
 
 <p align="center">
@@ -57,6 +45,17 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
 ### 📈 Histórico de contribuições
 
 [![Gráfico de contribuições do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Auggusti0G&theme=tokyo-night&hide_border=true)](https://github.com/Auggusti0G)
+
+---
+### 📚 Estudos atuais
+
+- Desenvolvimento Web: HTML, CSS e JavaScript.
+- Lógica de programação e algoritmos.
+- Programação em Python e C.
+- Desenvolvimento de APIs com Django e Django REST Framework.
+- Banco de dados e SQL.
+- Controle de versão com Git e GitHub.
+- Fundamentos de segurança da informação e computação em nuvem.
 
 ---
 
