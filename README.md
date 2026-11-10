@@ -22,7 +22,6 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
     height="190"
   />
 </p>
-
 ---
 
 ### 🛠️ Linguagens e tecnologias
