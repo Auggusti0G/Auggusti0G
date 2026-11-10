@@ -12,13 +12,13 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=Auggusti0G&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br"
-    alt="Estatísticas do GitHub de Rafael"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Auggusti0G&layout=compact&langs_count=8&theme=tokyonight"
+    alt="Linguagens mais utilizadas"
     height="190"
   />
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Auggusti0G&layout=compact&langs_count=8&theme=tokyonight"
-    alt="Linguagens mais utilizadas"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Auggusti0G&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br"
+    alt="Estatísticas do GitHub de Rafael"
     height="190"
   />
 </p>
