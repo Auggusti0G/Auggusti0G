@@ -23,6 +23,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Remover a barra de baixo
+        run: |
+          sed -i 's#</style>#.u{display:none}</style>#' dist/*.svg
+
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
