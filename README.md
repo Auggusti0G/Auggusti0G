@@ -1,58 +1,98 @@
-#  Rafael Augusto
-
-### `Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas`
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, interessado em desenvolvimento de software, programação, segurança da informação e computação em nuvem.
-
-Utilizo este GitHub para documentar minha evolução, praticar lógica de programação, desenvolver projetos e compartilhar meus estudos na área de Tecnologia da Informação.
-
-- Como me encontrar:
-
-<p align="left">
-  <a href="https://github.com/Auggusti0G" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://gitlab.com/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-  <a href="https://instagram.com/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://stackoverflow.com/users/SEU_ID" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+<!-- ====================== HEADER ====================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Rafael%20Augusto&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20ADS%20%40%20CEUB&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Rafael Augusto"/>
 </p>
-
----
-
-<h3> Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Auggusti0G&layout=compact&langs_count=8&theme=tokyonight"
-    alt="Linguagens mais utilizadas"
-    height="190"
-  />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=Auggusti0G&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br"
-    alt="Estatísticas do GitHub de Rafael"
-    height="190"
-  />
+  <a href="https://github.com/Auggusti0G">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%C3%A9+minha+linguagem+principal+%F0%9F%90%8D;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%2B+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Auggusti0G&label=Visitas&color=7aa2f7&style=flat" alt="Visitas"/>
+  <img src="https://img.shields.io/github/followers/Auggusti0G?label=Seguidores&style=flat&color=bb9af7" alt="Seguidores"/>
+  <img src="https://img.shields.io/badge/📍-Brasília%2C%20DF-1a1b27?style=flat" alt="Brasília"/>
 </p>
 
 ---
 
-### Linguagens e tecnologias
+## 🧑‍💻 Sobre mim
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="38" alt="C" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="38" alt="PHP" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="38" alt="Django" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38" alt="GitHub" title="GitHub"/>
+```python
+class Rafael:
+    def __init__(self):
+        self.nome        = "Rafael Augusto"
+        self.local       = "Brasília - DF 🇧🇷"
+        self.faculdade   = "CEUB - Análise e Desenvolvimento de Sistemas"
+        self.principal   = "Python 🐍"
+        self.interesses  = ["Desenvolvimento de Software", "Segurança da Informação",
+                            "Computação em Nuvem", "Estruturas de Dados"]
+        self.objetivo    = "Documentar minha evolução e construir projetos reais 🚀"
+
+    def __str__(self):
+        return "Sempre aprendendo algo novo! 📚"
+```
+
+---
+
+## 🛠️ Linguagens e tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,php,html,css,js,django,mysql,git,github,linux,vscode&perline=7&theme=dark" alt="Tecnologias"/>
+  </a>
 </p>
 
 ---
+
+## 📊 Estatísticas do GitHub
+
+<!-- Cards gerados pelo próprio GitHub Actions (nunca ficam fora do ar) -->
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Detalhes do perfil"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="Estatísticas"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="Linguagens com mais commits"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" alt="Repositórios por linguagem"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="180" alt="Horário mais produtivo"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Auggusti0G&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|:--|:--|:--:|
+| 🌐 [**Desenvolvimento-Web**](https://github.com/Auggusti0G/Desenvolvimento-Web) | Projetos e exercícios de desenvolvimento web | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| 🧮 [**Estrutura de Dados**](https://github.com/Auggusti0G/Etrutura_de_dados) | Implementações de estruturas de dados | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| 🧩 [**POO**](https://github.com/Auggusti0G/POO-) | Programação Orientada a Objetos | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+
+---
+
+## 📫 Onde me encontrar
+
+<p align="center">
+  <a href="https://github.com/Auggusti0G"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://instagram.com/august._og"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:rafaelgil.df30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <!-- Quando tiver LinkedIn, troque SEU_USUARIO e remova os comentários:
+  <a href="https://www.linkedin.com/in/SEU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  -->
+</p>
+
+---
+
+## 🐍 Cobrinha comendo minhas contribuições
 
 <p align="center">
   <picture>
@@ -60,4 +100,9 @@ Utilizo este GitHub para documentar minha evolução, praticar lógica de progra
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Auggusti0G/Auggusti0G/output/github-snake.svg" />
     <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/Auggusti0G/Auggusti0G/output/github-snake.svg" />
   </picture>
+</p>
+
+<!-- ====================== FOOTER ====================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="footer"/>
 </p>
