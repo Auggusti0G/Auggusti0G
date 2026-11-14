@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/></a>
-  <a href="mailto:rafaelgil.df30@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail"/></a>
-  <a href="https://instagram.com/august._og"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36" alt="Instagram"/></a>
-  <a href="https://www.tiktok.com/@SEU_USUARIO_TIKTOK"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="36" alt="TikTok"/></a>
-  <a href="https://github.com/Auggusti0G"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="44" alt="LinkedIn"/></a>
+  <a href="mailto:rafaelgil.df30@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="44" alt="Gmail"/></a>
+  <a href="https://instagram.com/august._og"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="44" alt="Instagram"/></a>
+  <a href="https://www.tiktok.com/@SEU_USUARIO_TIKTOK"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="44" alt="TikTok"/></a>
+  <a href="https://github.com/Auggusti0G"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" height="44" alt="GitHub"/></a>
 </p>
 
 <h3 align="center">📊 Estatísticas</h3>
