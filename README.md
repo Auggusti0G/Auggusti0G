@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  📍 Brasília, DF &nbsp;•&nbsp; 🎓 CEUB &nbsp;•&nbsp; 💡 Sempre aprendendo algo novo
-</p>
-
-<p align="center">
   <a href="https://github.com/Auggusti0G"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="GitHub"/></a>
   <a href="https://instagram.com/august._og"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
   <a href="mailto:rafaelgil.df30@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/></a>
@@ -19,8 +15,8 @@
 <h3 align="center">📊 Estatísticas</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Auggusti0G&theme=tokyonight" height="165" alt="Estatísticas"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Auggusti0G&theme=tokyonight" height="165" alt="Linguagens mais usadas"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Auggusti0G&theme=tokyonight" width="49%" alt="Repositórios por linguagem"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Auggusti0G&theme=tokyonight" width="49%" alt="Commits por linguagem"/>
 </p>
 
 <p align="center">
