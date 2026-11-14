@@ -3,34 +3,37 @@
 </p>
 
 <p align="center">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> em Brasília 🇧🇷<br/>
-  Python é minha linguagem principal · Interesse em <b>segurança da informação</b> e <b>cloud</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%C3%A9+minha+linguagem+principal+%F0%9F%90%8D;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%2B+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Auggusti0G"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://instagram.com/august._og"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:rafaelgil.df30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  📍 Brasília, DF &nbsp;•&nbsp; 🎓 CEUB &nbsp;•&nbsp; 💡 Sempre aprendendo algo novo
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,php,html,css,js,django,mysql,git,github,linux,vscode&perline=13&theme=dark" alt="Linguagens e tecnologias"/>
+  <a href="https://github.com/Auggusti0G"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="GitHub"/></a>
+  <a href="https://instagram.com/august._og"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="mailto:rafaelgil.df30@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/></a>
 </p>
 
-<br/>
+<h3 align="center">📊 Estatísticas</h3>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="165" alt="Estatísticas"/>
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165" alt="Linguagens"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Auggusti0G&theme=tokyonight" height="165" alt="Estatísticas"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Auggusti0G&theme=tokyonight" height="165" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Auggusti0G&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 </p>
 
-<br/>
+<h3 align="center">🛠️ Linguagens e Tecnologias</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,php,html,css,js,django,mysql,git,github,linux,vscode&perline=13&theme=dark" alt="Linguagens e tecnologias"/>
+</p>
+
+<h3 align="center">📌 Projetos em destaque</h3>
 
 <p align="center">
   <a href="https://github.com/Auggusti0G/Desenvolvimento-Web"><img src="https://img.shields.io/badge/Desenvolvimento--Web-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Desenvolvimento-Web"/></a>
